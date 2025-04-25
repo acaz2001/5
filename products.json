@@ -1,0 +1,347 @@
+[
+    {
+      "slug": "Retro-Handheld-Console",
+      "name": "Retro Handheld Console",
+      "price": 59.99,
+      "desc" : "Introduced in late 1997, the DualShock Analog Controller (SCPH-1200) can provsluge vibration feedback based on game activity, as well as input through two analog sticks.",
+      "variantTitle" : "Color",
+      "variants": [
+        {
+          "name": "Green",
+          "price": 59.99,
+          "priceOld" : 89.99,
+          "image": "mostpopular1"
+        },
+        {
+          "name": "Pink",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "joystick2"
+        },
+        {
+          "name": "White",
+          "price": 69.99,
+          "priceOld" : 119.99,
+          "image": "joystick1"
+        }
+      ],
+      "category": "Technology",
+      "image": "mostpopular1",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash",
+      "popular": "true"
+    },
+
+
+
+    {
+      "slug": "Keyboard",
+      "name": "Keyboard",
+      "price": 59.99,
+      "desc" : "Introduced in late 1997, the DualShock Analog Controller (SCPH-1200) can provsluge vibration feedback based on game activity, as well as input through two analog sticks.",
+      "variantTitle" : "Keyboard switch type",
+      "variants": [
+        {
+          "name": "Tactile",
+          "price": 59.99,
+          "priceOld" : 89.99,
+          "image": "prodTechno3"
+        },
+        {
+          "name": "Cilcky",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodTechno3"
+        },
+        {
+          "name": "Linear",
+          "price": 69.99,
+          "priceOld" : 119.99,
+          "image": "prodTechno2"
+        }
+      ],
+      "category": "Technology",
+      "image": "prodTechno2",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash"
+    },
+
+
+    {
+      "slug":"BeatsElectronics",
+      "name": "BeatsElectronics",
+      "price": 59.99,
+      "desc" : "Introduced in late 1997, the DualShock Analog Controller (SCPH-1200) can provsluge vibration feedback based on game activity, as well as input through two analog sticks.",
+      "variantTitle" : "Connectivity technology",
+      "variants": [
+        {
+          "name": "Wireless",
+          "price": 59.99,
+          "priceOld" : 89.99,
+          "image": "prodTechno3"
+        },
+        {
+          "name": "Wired",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodTechno3"
+        }
+      ],
+      "category": "Technology",
+      "image": "prodTechno3",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash"
+    },
+
+
+
+    {
+      "slug": "Horizon-Glow-Sneakers",
+      "name": "Horizon Glow Sneakers",
+      "price": 64.99,
+      "desc" : "Nike's range of products include shoes, jerseys, shorts, cleats, baselayers, etc. for sports activities such as soccer,[70] basketball, track and field, combat sports, tennis, American football, athletics, golf, ice hockey, and cross training for men, women, and children.",
+      "variantTitle" : "Shoe Size",
+      "variants": [
+        {
+          "name": "6",
+          "price": 64.99,
+          "priceOld" : 89.99,
+          "image": "prodShoe1"
+        },
+        {
+          "name": "7",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe1"
+        },
+        {
+          "name": "8",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe1"
+        },
+        {
+          "name": "9",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe1"
+        }
+      ],
+      "category": "Footwear",
+      "image": "prodShoe1",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash"
+    },
+    {
+      "slug": "Vibrant-Work-Boots",
+      "name": "Vibrant Work Boots",
+      "price": 64.99,
+      "desc" : "Nike's range of products include shoes, jerseys, shorts, cleats, baselayers, etc. for sports activities such as soccer,[70] basketball, track and field, combat sports, tennis, American football, athletics, golf, ice hockey, and cross training for men, women, and children.",
+      "variantTitle" : "Shoe Size",
+      "variants": [
+        {
+          "name": "6",
+          "price": 64.99,
+          "priceOld" : 89.99,
+          "image": "prodShoe2"
+        },
+        {
+          "name": "7",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe2"
+        },
+        {
+          "name": "8",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe2"
+        },
+        {
+          "name": "9",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe2"
+        }
+      ],
+      "category": "Footwear",
+      "image": "prodShoe2",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash",
+      "popular": "true"
+    },
+    {
+      "slug": "Classic-Off-White-Trainers",
+      "name": "Classic Off-White Trainers",
+      "price": 64.99,
+      "desc" : "Nike's range of products include shoes, jerseys, shorts, cleats, baselayers, etc. for sports activities such as soccer,[70] basketball, track and field, combat sports, tennis, American football, athletics, golf, ice hockey, and cross training for men, women, and children.",
+      "variantTitle" : "Shoe Size",
+      "variants": [
+        {
+          "name": "6",
+          "price": 64.99,
+          "priceOld" : 89.99,
+          "image": "prodShoe3"
+        },
+        {
+          "name": "7",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe3"
+        },
+        {
+          "name": "8",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe3"
+        },
+        {
+          "name": "9",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodShoe3"
+        }
+      ],
+      "category": "Footwear",
+      "image": "prodShoe3",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash"
+    },
+
+
+
+    {
+      "slug": "Tropical-Paradise-Plant",
+      "name": "Tropical Paradise Plant",
+      "price": 64.99,
+      "desc" : "We make thoughtfully designed products that are as useful as they are beautiful. Vintage and modern, these products are often inspired by old things we love but are wholly original.",
+      "variantTitle" : "Pot Color",
+      "variants": [
+        {
+          "name": "Black",
+          "price": 64.99,
+          "priceOld" : 89.99,
+          "image": "houseplant"
+        },
+        {
+          "name": "White",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "houseplant"
+        },
+        {
+          "name": "Gray",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "houseplant"
+        }
+      ],
+      "category": "Home",
+      "image": "houseplant",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash"
+    },
+
+
+    {
+      "slug": "VPotted-Succulent-Plant",
+      "name": "Potted Succulent Plant",
+      "price": 64.99,
+      "desc" : "We make thoughtfully designed products that are as useful as they are beautiful. Vintage and modern, these products are often inspired by old things we love but are wholly original.",
+      "variantTitle" : "Pot Color",
+      "variants": [
+        {
+          "name": "Black",
+          "price": 64.99,
+          "priceOld" : 89.99,
+          "image": "prodHome1"
+        },
+        {
+          "name": "White",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodHome1"
+        },
+        {
+          "name": "Gray",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodHome1"
+        }
+      ],
+      "category": "Home",
+      "image": "prodHome1",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash",
+      "popular": "true"
+    },
+    {
+      "slug": "Classic-Off-White",
+      "name": "Classic Off-White",
+      "price": 64.99,
+      "desc" : "We make thoughtfully designed products that are as useful as they are beautiful. Vintage and modern, these products are often inspired by old things we love but are wholly original.",
+      "variantTitle" : "Upholstery material",
+      "variants": [
+        {
+          "name": "Leather",
+          "price": 64.99,
+          "priceOld" : 89.99,
+          "image": "prodHome2"
+        },
+        {
+          "name": "Velvet",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodHome2"
+        },
+        {
+          "name": "Suede",
+          "price": 64.99,
+          "priceOld" : 99.99,
+          "image": "prodHome2"
+        }
+      ],
+      "category": "Home",
+      "image": "prodHome2",
+      "infoTitle1": "Design for fun and portability",
+      "infoDesc1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg1": "pawel",
+      "infoTitle2": "Available in different configurations",
+      "infoDesc2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet urna ante. Aenean eu tempor arcu, quis dapibus augue. Duis aliquet tristique hendrerit. Sed porttitor porta eros vitae rutrum. Cras dignissim mi nec enim tempus tincidunt. ",
+      "infoImg2": "clark-van-der-beken-Tk0B3Dfkf_4-unsplash"
+    }
+
+  ]
+  
